@@ -1,0 +1,113 @@
+---
+object: card
+id: f8442521-57b8-4353-b6d0-61f1837567e1
+oracle_id: 4927150d-7ff6-4232-b20e-d2ea245ac710
+multiverse_ids: []
+tcgplayer_id: 58136
+cardmarket_id: 253458
+name: Tectonic Edge
+lang: en
+released_at: '2012-01-01'
+uri: https://api.scryfall.com/cards/f8442521-57b8-4353-b6d0-61f1837567e1
+scryfall_uri: https://scryfall.com/card/f12/3/tectonic-edge?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/8/f8442521-57b8-4353-b6d0-61f1837567e1.jpg?1562640143
+  normal: https://cards.scryfall.io/normal/front/f/8/f8442521-57b8-4353-b6d0-61f1837567e1.jpg?1562640143
+  large: https://cards.scryfall.io/large/front/f/8/f8442521-57b8-4353-b6d0-61f1837567e1.jpg?1562640143
+  png: https://cards.scryfall.io/png/front/f/8/f8442521-57b8-4353-b6d0-61f1837567e1.png?1562640143
+  art_crop: https://cards.scryfall.io/art_crop/front/f/8/f8442521-57b8-4353-b6d0-61f1837567e1.jpg?1562640143
+  border_crop: https://cards.scryfall.io/border_crop/front/f/8/f8442521-57b8-4353-b6d0-61f1837567e1.jpg?1562640143
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate only if an opponent controls four or more lands.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 6df07fcb-8b2a-43a6-82bc-97e92312a921
+set: f12
+set_name: Friday Night Magic 2012
+set_type: promo
+set_uri: https://api.scryfall.com/sets/6df07fcb-8b2a-43a6-82bc-97e92312a921
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af12&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f12?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f8442521-57b8-4353-b6d0-61f1837567e1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4927150d-7ff6-4232-b20e-d2ea245ac710&unique=prints
+collector_number: '3'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: |-
+  "We move because the earth does."
+  —Bruse Tarl, Goma Fada nomad
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eytan Zana
+artist_ids:
+- 0d8d6726-4051-445a-8374-a919aad98f38
+illustration_id: ef361aa8-2b4c-4cf7-b104-c1a144a2fcbe
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 2270
+penny_rank: 809
+prices:
+  usd: 
+  usd_foil: '2.17'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tectonic+Edge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tectonic+Edge&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tectonic+Edge
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/58136?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tectonic+Edge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tectonic+Edge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
